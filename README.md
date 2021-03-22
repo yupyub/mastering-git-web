@@ -24,4 +24,6 @@
 
 This repository houses a proposed website for the Mastering Git book.
 
-Contact: mwkoo@sogang.ac.kr
+Team Contact: sungyup5003@gmail.com
+Professor Contact: mwkoo@sogang.ac.kr
+
